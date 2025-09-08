@@ -77,12 +77,13 @@ UHDBench/
 
 <!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
 Please consider staring UHDBench&MGVQ and citing the following paper if you feel this dataset useful.  
-**BibTeX:**  
-@article{jia2025mgvq,  
-  author  = {Jia, Mingkai and Yin, Wei and Hu, Xiaotao and Guo, Jiaxin and Guo, Xiaoyang and Zhang, Qian and Long, Xiao-Xiao and Tan, Ping},  
-  title   = {MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization},  
-  journal = {arXiv preprint arXiv:2507.07997},  
-  year    = {2025}  
+```bibtex
+@article{jia2025mgvq,
+  title={MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization},
+  author={Jia, Mingkai and Yin, Wei and Hu, Xiaotao and Guo, Jiaxin and Guo, Xiaoyang and Zhang, Qian and Long, Xiao-Xiao and Tan, Ping},
+  journal={arXiv preprint arXiv:2507.07997},
+  year={2025}
 }
+```
 
 
