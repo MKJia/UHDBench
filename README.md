@@ -37,7 +37,7 @@ Feel free to suggest other VQVAEs or VAEs. We're happy to assist with the evalua
 |  MGVQ-f16c32-g4  | Discrete |  16  | <ins>1.59</ins>  | **28.27**  |
 
 <image src="./assets/recon_tab_3.jpg"/>
-<image src="./assets/recon_qual.pdf"/>
+<image src="./assets/recon_qual.png"/>
 
 ## Dataset Structure
 
